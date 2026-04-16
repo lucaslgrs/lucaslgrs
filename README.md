@@ -5,7 +5,7 @@
 ### Olá 👋
 
 Sou apaixonado por tecnologia desde criança e por desenvolvimento de software desde o primeiro contato.<br/>
-Possuo formação em Sistemas de Informação (2007) pela Unijuí, onde iniciei como desenvolvedor Delphi em 2004 e atuei por 18 anos como Tech Lead, Analista de Sistemas e Desenvolvedor Back-end. Atualmente sou Engenheiro de Software Sênior na Provider-IT.<br/>
+Possuo formação em Sistemas de Informação (2007) pela Unijuí, onde iniciei como desenvolvedor Delphi em 2004 e atuei por 18 anos como Tech Lead, Analista de Sistemas e Desenvolvedor Back-end. Atualmente atuo como  Engenheiro de Software Sênior.<br/>
 Possuo experiência em Engenharia e Arquitetura de Software, Definição de Requisitos, Gestão de Projetos, SQL/NoSQL, Desenvolvimento Back-end e APIs REST.<br/>
 Atualmente estou estudando Python (Django e Flask) e Node.js
 
